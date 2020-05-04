@@ -1,0 +1,13 @@
+C:\Users\kyle\source\repos\Capstone2\Capstone2\bin\Debug\netcoreapp3.1\Capstone2.exe
+C:\Users\kyle\source\repos\Capstone2\Capstone2\bin\Debug\netcoreapp3.1\Capstone2.deps.json
+C:\Users\kyle\source\repos\Capstone2\Capstone2\bin\Debug\netcoreapp3.1\Capstone2.runtimeconfig.json
+C:\Users\kyle\source\repos\Capstone2\Capstone2\bin\Debug\netcoreapp3.1\Capstone2.runtimeconfig.dev.json
+C:\Users\kyle\source\repos\Capstone2\Capstone2\bin\Debug\netcoreapp3.1\Capstone2.dll
+C:\Users\kyle\source\repos\Capstone2\Capstone2\bin\Debug\netcoreapp3.1\Capstone2.pdb
+C:\Users\kyle\source\repos\Capstone2\Capstone2\obj\Debug\netcoreapp3.1\Capstone2.csprojAssemblyReference.cache
+C:\Users\kyle\source\repos\Capstone2\Capstone2\obj\Debug\netcoreapp3.1\Capstone2.csproj.CoreCompileInputs.cache
+C:\Users\kyle\source\repos\Capstone2\Capstone2\obj\Debug\netcoreapp3.1\Capstone2.AssemblyInfoInputs.cache
+C:\Users\kyle\source\repos\Capstone2\Capstone2\obj\Debug\netcoreapp3.1\Capstone2.AssemblyInfo.cs
+C:\Users\kyle\source\repos\Capstone2\Capstone2\obj\Debug\netcoreapp3.1\Capstone2.dll
+C:\Users\kyle\source\repos\Capstone2\Capstone2\obj\Debug\netcoreapp3.1\Capstone2.pdb
+C:\Users\kyle\source\repos\Capstone2\Capstone2\obj\Debug\netcoreapp3.1\Capstone2.genruntimeconfig.cache
